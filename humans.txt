@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Martin Sidorov	martin.sidorov27@gmail.com	@nitram278
 
 # THANKS
 
